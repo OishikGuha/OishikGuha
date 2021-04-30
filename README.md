@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... fun animal fact: did you know not all lobsters are dogs?
 
 
-My top 5 projects:
+**My top 5 projects:**
 1) my 2d terrain generator https://github.com/OishikGuha/2d-procedural-terrain-generator
 2) elemental witch (a game made for a game jam) https://github.com/OishikGuha/Elemental-Witch-scorespace12
 3) the challenge managager (discord bot) https://github.com/OishikGuha/The-Challenge-Manager
