@@ -1,6 +1,5 @@
 ### Hi there monkeys 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... a game ;)
 - 🌱 I’m currently learning ... Unity
@@ -10,6 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... my twitter: @roboticolyt
 - 😄 Pronouns: ... he, monkey, ape
 - ⚡ Fun fact: ... fun animal fact: did you know not all lobsters are dogs?
+
 
 my top 5 projects:
 1) my 2d terrain generator https://github.com/OishikGuha/2d-procedural-terrain-generator
