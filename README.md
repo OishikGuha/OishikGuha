@@ -1,4 +1,4 @@
-### Hi there monkeys 👋
+### Hi there monkes 👋
 
 
 - 🔭 I’m currently working on ... a game ;)
