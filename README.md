@@ -1,4 +1,4 @@
-# Hello there! my name is Oishik Guha aka. Roboticol 👋
+# Hello there! my name is Oishik Guha aka. Roboticol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Description:
 I am an Indian programmer who is passionate in developing games and artificial intelligence. I really like knowing and learning about stuff that other people overlook, and I am especially fascinated with machine learning ai, it's a concept I am truly deep into and one that I love.
