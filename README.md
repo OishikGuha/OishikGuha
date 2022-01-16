@@ -1,19 +1,11 @@
-### Hi there monkes 👋
+# Hello there! my name is Oishik Guha aka. Roboticol 👋
 
+### Description:
+I am an Indian programmer who is passionate in developing games and artificial intelligence. I really like knowing and learning about stuff that other people overlook, and I am especially fascinated with machine learning ai, it's a concept I am truly deep into and one that I love.
 
-- 🔭 I’m currently working on ... a game ;)
-- 🌱 I’m currently learning ... Unity
-- 👯 I’m looking to collaborate on ... nothing
-- 🤔 I’m looking for help with ... nothing
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... my twitter: @roboticolyt
-- 😄 Pronouns: ... he, monkey, ape
-- ⚡ Fun fact: ... fun animal fact: did you know not all lobsters are dogs?
-
-
-**My top 5 projects:**
-1) my 2d terrain generator https://github.com/OishikGuha/2d-procedural-terrain-generator
-2) elemental witch (a game made for a game jam) https://github.com/OishikGuha/Elemental-Witch-scorespace12
-3) the challenge managager (discord bot) https://github.com/OishikGuha/The-Challenge-Manager
-4) my 2d pixel building mechanic https://github.com/OishikGuha/2d-pixel-building-mechanic
-5) trying to make my 2d look pretty https://github.com/OishikGuha/trying-to-make-my-2d-look-pretty
+### My Top 5 Projects
+[Learn Unity bot](https://github.com/OishikGuha/Learn-Unity-Bot)
+[Shipblasters](https://github.com/OishikGuha/Shipblasters)
+[2D Procedural Terrain Generator](https://github.com/OishikGuha/2d-procedural-terrain-generator)
+[Elemental Witchcraft (jam game)](https://github.com/OishikGuha/Elemental-Witch-scorespace12)
+[Bargaining simulator (jam game)](https://github.com/OishikGuha/Bargaining-Simulator-mfg1)
