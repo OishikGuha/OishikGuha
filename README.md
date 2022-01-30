@@ -13,8 +13,8 @@ I am an Indian programmer who is passionate in developing games and artificial i
 </h3>
   
 ### My Top 5 Projects:
-1. [Learn Unity bot](https://github.com/OishikGuha/Learn-Unity-Bot)
-2. [Shipblasters](https://github.com/OishikGuha/Shipblasters)
-3. [Elemental Witchcraft (jam game)](https://github.com/OishikGuha/Elemental-Witch-scorespace12)
-4. [Bargaining simulator (jam game)](https://github.com/OishikGuha/Bargaining-Simulator-mfg1)
-5. [2D Procedural Terrain Generator](https://github.com/OishikGuha/2d-procedural-terrain-generator)
+1. [AI-Powered Potato/Tomato Plant Blight Disease Diagnoser](https://github.com/OishikGuha/Vegetable-Plant-Blight-Disease-Classifier)
+2. [Learn Unity bot](https://github.com/OishikGuha/Learn-Unity-Bot)
+3. [Shipblasters](https://github.com/OishikGuha/Shipblasters)
+4. [Elemental Witchcraft (jam game)](https://github.com/OishikGuha/Elemental-Witch-scorespace12)
+5. [Bargaining simulator (jam game)](https://github.com/OishikGuha/Bargaining-Simulator-mfg1)
